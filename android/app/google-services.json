@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569001671083",
+    "firebase_url": "https://eharvest-f69f0.firebaseio.com",
+    "project_id": "eharvest-f69f0",
+    "storage_bucket": "eharvest-f69f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569001671083:android:a5ba50b4f24b830f4ebaee",
+        "android_client_info": {
+          "package_name": "com.example.eharvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569001671083-c7rqbjuo3gk9pgdlcaa1bbot5vc45io9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgUCNoyGaFRdvVg721dDycxgcZk8gyss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569001671083-c7rqbjuo3gk9pgdlcaa1bbot5vc45io9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
